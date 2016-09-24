@@ -1,0 +1,8 @@
+# npm error log
+npm-debug.log
+
+# all node_modules folder
+node_modules/
+
+# src folder
+src/
